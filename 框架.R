@@ -87,5 +87,3 @@ Game<-setRefClass('Game',
                     }
                   )                  
 )
-git config --global user.email "2592577971@qq.com"
-git config --global user.name "XiuyiSAMA"
